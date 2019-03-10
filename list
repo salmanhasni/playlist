@@ -1,9 +1,16 @@
 {
-    "lists": [
+    "items": [
         {
-            "list_id": "13544",
-            "list_name": "Demo",
-            "list_url": "https://raw.githubusercontent.com/salmanhasni/playlist/master/1.m3u"
+            "id": "934225",
+            "title": "Sports channel 1",
+            "url": "http://31.220.1.190:8080/live/François/12345/197967.m3u8",
+            "logo": "https://www.sageiptv.com/logos/demos/logo1.png"
+        },
+        {
+            "id": "934226",
+            "title": "Sports channel 2",
+            "url": "http://31.220.1.190:8080/live/François/12345/197979.m3u8",
+            "logo": "https://www.sageiptv.com/logos/demos/logo2.png"
         }
     ]
 }
